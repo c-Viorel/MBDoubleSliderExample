@@ -15,6 +15,7 @@
 		F28C7A3E1E314C7A009059C5 /* MBDoubleSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28C7A3C1E314C7A009059C5 /* MBDoubleSlider.swift */; };
 		F28C7A411E314F01009059C5 /* MBTransparentWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28C7A401E314F01009059C5 /* MBTransparentWindow.swift */; };
 		F28C7A441E314F6F009059C5 /* MBFilledView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28C7A431E314F6F009059C5 /* MBFilledView.swift */; };
+		F28C7A461E3157F3009059C5 /* example.png in Resources */ = {isa = PBXBuildFile; fileRef = F28C7A451E3157F3009059C5 /* example.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F28C7A3C1E314C7A009059C5 /* MBDoubleSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MBDoubleSlider.swift; sourceTree = "<group>"; };
 		F28C7A401E314F01009059C5 /* MBTransparentWindow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MBTransparentWindow.swift; sourceTree = "<group>"; };
 		F28C7A431E314F6F009059C5 /* MBFilledView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MBFilledView.swift; sourceTree = "<group>"; };
+		F28C7A451E3157F3009059C5 /* example.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = example.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				F28C7A2C1E314C71009059C5 /* AppDelegate.swift */,
 				F28C7A2E1E314C71009059C5 /* ViewController.swift */,
+				F28C7A451E3157F3009059C5 /* example.png */,
 				F28C7A421E314F17009059C5 /* OtherResouces */,
 				F28C7A3F1E314C7F009059C5 /* MBDoubleSlider */,
 				F28C7A301E314C71009059C5 /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F28C7A461E3157F3009059C5 /* example.png in Resources */,
 				F28C7A311E314C71009059C5 /* Assets.xcassets in Resources */,
 				F28C7A341E314C71009059C5 /* Main.storyboard in Resources */,
 			);
@@ -321,6 +325,7 @@
 				F28C7A3A1E314C71009059C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
