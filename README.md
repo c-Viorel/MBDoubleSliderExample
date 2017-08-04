@@ -7,10 +7,10 @@ CustomDoubleSlider for macOs written in swift 3.0
 
 A double slider uset to select a range. The range is specific for time, but can be adaptad to use anywhere.
 
-![Alt text](https://github.com/c-Viorel/MBDoubleSliderExample/blob/master/MBDoubleSliderExample/example.png?raw=true)
+![Alt text](https://github.com/c-Viorel/MBPageControl/blob/master/description.png?raw=true)
 
 ## IBInspectable properties
-![Alt text](https://github.com/c-Viorel/MBDoubleSliderExample/blob/master/MBDoubleSliderExample/ibInspectable.png?raw=true)
+![Alt text](https://github.com/c-Viorel/MBPageControl/blob/master/description1.png?raw=true)
 
 ### Requirements
 - macOS
